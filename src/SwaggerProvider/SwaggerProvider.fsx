@@ -21,3 +21,12 @@
 #r "YamlDotNet.dll"
 #r "SwaggerProvider.Runtime.dll"
 #r "SwaggerProvider.dll"
+
+
+
+
+//open SwaggerProvider
+// 
+//type PetStore = SwaggerProvider<"http://petstore.swagger.io/v2/swagger.json",EmbeddedResource="BioFSharp.BioDB.dll, ebiProteinsAPIswagger.json">
+
+//PetStore().GetByAccession2 ("Q64446") 
